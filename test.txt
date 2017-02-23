@@ -8,3 +8,5 @@ new update test
 test
 
 new line
+
+creating a new branch is quick.
